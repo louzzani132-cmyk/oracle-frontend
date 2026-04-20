@@ -3,7 +3,7 @@ import { useState, useEffect, useRef } from "react";
 // ════════════════════════════════════════════════════════════
 //  CONFIG — Remplace par l'URL de ton serveur Railway
 // ════════════════════════════════════════════════════════════
-const BACKEND_URL = "https://TON-PROJET.up.railway.app"; // ← change ici
+const BACKEND_URL = "https://oracle-backend-production-33ad.up.railway.app";
 
 // ════════════════════════════════════════════════════════════
 //  DONNÉES DÉMO
